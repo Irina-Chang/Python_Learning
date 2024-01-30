@@ -1,0 +1,4 @@
+Frase 1: Tudo é fácil com um bom direcionamento
+Frase 2: Estou vivendo minha melhor experiência de aprendizado
+Frase 3: Eu quero ser expert em python
+Frase 4: Eu quero ser o profissional do futuro com Python
